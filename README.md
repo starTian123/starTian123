@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Fengye Tian
 
 Master's Student at Zhengzhou University
