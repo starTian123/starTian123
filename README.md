@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**starTian123/starTian123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fengye Tian
 
-Here are some ideas to get you started:
+Master's Student at Zhengzhou University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research Interests:**
+- Computer Vision
+- Zero-Shot Anomaly Detection
+- Vision-Language Models
+
+**Affiliation:** Zhengzhou University
+
+**Email:** fytian@gs.zzu.edu.cn
